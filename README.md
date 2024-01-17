@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile! :wave:
-Hey there! I'm Erfan Farokhi, a passionate web developer born in 2005, currently studying at *Islamic Azad University Central Tehran Branch*.
+Hey there! I'm Erfan Farokhi, a passionate web developer born in 2005, currently studying **Computer Engineering** at *Islamic Azad University Central Tehran Branch* .
 
 I call **Tehran** my home sweet home.
 
