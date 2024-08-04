@@ -17,7 +17,7 @@ Here you'll find a collection of projects that I've built for fun and to beef up
 * ✉️ Email: erfanfarokhi.official@gmail.com
 * 🌈 Telegram: [link](https://t.me/erfanfh)
 * 🎈 Instagram: [link](https://instagram.com/erfanfh_)
-* 🔗 Linkedin: [link](www.linkedin.com/in/erfan-farokhi-6812222ab)
+* 🔗 Linkedin: [link](https://linkedin.com/in/erfan-farokhi-6812222ab)
 
 ### Fun Fact
 Did you know that bananas are berries, but strawberries aren't? It's a fruity plot twist! 😄
