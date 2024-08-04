@@ -4,7 +4,7 @@ Hey there! I'm Erfan Farokhi, a passionate web developer born in 2005, currently
 I call **Tehran** my home sweet home.
 
 ## About Me
-🚀 I specialize in web development, working with technologies like HTML, CSS, JavaScript, and PHP to bring ideas to life.
+🚀 I specialize in web development, working with technologies like Laravel and languages like html, CSS, JavaScript, and PHP to bring ideas to life.
 
 📚 Learning is my superpower! I have an insatiable appetite for new knowledge and skills.
 
