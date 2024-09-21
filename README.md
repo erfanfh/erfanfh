@@ -1,3 +1,4 @@
+
 # Welcome to My GitHub Profile! :wave:
 Hey there! I'm Erfan Farokhi, a passionate web developer born in 2005, currently studying **Computer Engineering** at *Islamic Azad University Central Tehran Branch* .
 
@@ -12,6 +13,11 @@ I call **Tehran** my home sweet home.
 
 ## Projects
 Here you'll find a collection of projects that I've built for fun and to beef up my resume. Feel free to explore, provide feedback, or even collaborate!
+
+* **Whisper**: An online system chat [Website](https://www.whisper.epicmaze.ir) | [Github](https://www.github.com/erfanfh/whisper)
+* **Movie Play**: Just guess the movie [Website](https://www.movieplay.epicmaze.ir) | [Github](https://www.github.com/erfanfh/movie-play)
+* **Cafe Managment**: Manage your cafe  [Github](https://www.github.com/erfanfh/cafe-management-system)
+
 
 ## How to Reach Me
 * ✉️ Email: erfanfarokhi.official@gmail.com
