@@ -16,6 +16,7 @@ Here you'll find a collection of projects that I've built for fun and to beef up
 
 * **Whisper**: An online system chat [Website](https://www.whisper.epicmaze.ir) | [Github](https://www.github.com/erfanfh/whisper)
 * **Movie Play**: Just guess the movie [Website](https://www.movieplay.epicmaze.ir) | [Github](https://www.github.com/erfanfh/movie-play)
+* **Telegram Chat Analyser**: Analysis your telegram exported chat  [Github](https://www.github.com/erfanfh/chatAnalysis)
 * **Cafe Managment**: Manage your cafe  [Github](https://www.github.com/erfanfh/cafe-management-system)
 
 
